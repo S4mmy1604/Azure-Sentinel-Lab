@@ -30,7 +30,7 @@ This project demonstrates end-to-end Security Information and Event Management (
 - Writing custom KQL detection rules for brute force attacks
 - Automatically triggering incidents and sending email alerts via Logic Apps
 
-**Duration:** 1 day  
+**Duration:** 2 day  
 **Cost:** Free Azure trial credits (~A$15 used)  
 **Environment:** Microsoft Azure (Australia East)
 
